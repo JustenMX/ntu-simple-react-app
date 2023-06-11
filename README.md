@@ -1,6 +1,6 @@
 ## NTU SCTP in Software Engineering
 
-## Module 2.2 Assignment
+## Module 2.1 Assignment
 
 ---
 
